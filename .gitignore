@@ -4,3 +4,4 @@ package-lock.json
 
 # gluon
 gluon_data
+.DS_Store
